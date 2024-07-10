@@ -96862,7 +96862,7 @@ A.aj(o,$.b4(),!0)
 p=A.bu(new A.aC(o))
 n=A.bH(p,p.gb1().aV("admins")).bA(q.a.c.a.c.a.a)
 p=t.z
-m=A.au(["uid",q.a.c.a.c.a.a,"firstName",q.e.a.a,"lastName",q.f.a.a,"phoneNumber",q.w.a.a,"email",q.r.a.a,"createdAt",A.aH4(1000*Date.now())],t.N,p)
+m=A.au(["uid",q.a.c.a.c.a.a,"firstName",q.e.a.a,"lastName",q.f.a.a,"phoneNumber",q.w.a.a,"email",q.r.a.a,"createdAt",A.aH4(1000*Date.now()),"shopId","KkpauYXfRoOJ0oOv4xRK"],t.N,p)
 l=A.aNM(!0)
 m=A.VZ(m)
 m.toString
